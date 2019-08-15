@@ -1,21 +1,22 @@
+/*common css*/
 * {
-	box-sizing: border-box;
+  box-sizing: border-box;
 }
 button, a {
-	border: none;
-	outline: none;
-	padding: 0;
-	margin: 0;
-    text-decoration: none;
-    cursor: pointer;
+  border: none;
+  outline: none;
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+  cursor: pointer;
 }
 h1 {
-    font-family: 'Black And White Picture', sans-serif !important;
+  font-family: 'Black And White Picture', sans-serif !important;
 }
 /*------------------------------------*\
                 RESET
 \*------------------------------------*/
-/* https://meyerweb.com/eric/tools/css/reset/ */
+/*credit to https://meyerweb.com/eric/tools/css/reset/ */
 html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,figcaption,figure,footer,header,hgroup,menu,nav,section,summary,time,mark,audio,video{
 	margin:0;
 	padding:0;
@@ -42,11 +43,6 @@ blockquote:before,blockquote:after,q:before,q:after {
 	content: ’’;
 	content: none;
 }
-/* remember to define visible focus styles!:focus{
-	outline:?????;
-}
-*/
-/* remember to highlight inserts somehow! */
 ins {
 	text-decoration: none;
 }
@@ -897,6 +893,7 @@ body {
 	background: inherit;
 	margin: 0 10px;
 	padding: 0px !important;
+	z-index: 1;
 }
 
 #page4-btn-container button img {
