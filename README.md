@@ -1,3 +1,3 @@
-Copyright Policy:This website and its content is copyright of © tazin.me 2019. Any redistribution or reproduction of part or all of the contents in any form is prohibited by any means.
+Copyright Policy:This website and its content is copyright of © tazin.me 2020. Any redistribution or reproduction of part or all of the contents in any form is prohibited by any means.
  All right reserve: www.tazin.me
 
